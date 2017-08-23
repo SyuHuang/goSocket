@@ -1,0 +1,21 @@
+{
+    "ID":1,
+    "Address":"localhost",
+    "Port":123,
+
+    "GameDB":
+    {
+        "DB":"127.0.0.1",
+        "DBUser":"root",
+        "DBPassword":"098765",
+        "DBSchema":"GameDB"
+    },
+
+    "LogDB":
+    {
+        "DB":"127.0.0.1",
+        "DBUser":"root",
+        "DBPassword":"098765",
+        "DBSchema":"LogDB"
+    }
+}
